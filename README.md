@@ -16,7 +16,7 @@ To run this application locally, make sure you have Python installed. Then, foll
 
 1. Clone this repository:
 
-git clone https://github.com/josemiguelmolinam/DALL-E-Image-Generator.git
+https://github.com/josemiguelmolinam/DALL-E-Image-Generator-App/
 
 
 2. Change to the project directory:
