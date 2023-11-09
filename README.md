@@ -1,8 +1,5 @@
 # DALL-E Image Generator
 
-![DALL-E Image Generator](https://github.com/josemiguelmolinam/DALL-E-Image-Generator-App/raw/main/screenshot-app.png)
-
-
 This is a simple application built with Python and Streamlit that allows you to generate images using the DALL-E model. Just enter a text description, choose the number of images to generate, and select the image size.
 
 ## Features
@@ -49,3 +46,10 @@ streamlit run app.py
 If you have any questions or suggestions, feel free to contact me at josedeveloper3@gmail.com
 
 Enjoy generating images with DALL-E!
+
+
+## Screenshots
+
+Application Screenshot
+
+![DALL-E Image Generator] <img src="https://github.com/josemiguelmolinam/DALL-E-Image-Generator-App/blob/main/screenshot-app.png" width="512" height="512">
