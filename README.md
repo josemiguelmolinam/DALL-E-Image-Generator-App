@@ -45,6 +45,6 @@ streamlit run app.py
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at your@email.com.
+If you have any questions or suggestions, feel free to contact me at josedeveloper3@gmail.com
 
 Enjoy generating images with DALL-E!
