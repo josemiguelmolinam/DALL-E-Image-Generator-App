@@ -52,4 +52,4 @@ Enjoy generating images with DALL-E!
 
 Application Screenshot
 
-![DALL-E Image Generator] <img src="https://github.com/josemiguelmolinam/DALL-E-Image-Generator-App/blob/main/screenshot-app.png" width="400" height="300">
+<img src="https://github.com/josemiguelmolinam/DALL-E-Image-Generator-App/blob/main/screenshot-app.png" width="1024" height="1024">
